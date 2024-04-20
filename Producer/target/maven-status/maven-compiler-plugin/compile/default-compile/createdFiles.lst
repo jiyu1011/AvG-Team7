@@ -1,0 +1,8 @@
+com\acme\Components\Controller.class
+com\acme\Entity\Producer.class
+com\acme\Entity\Producer$ProducerBuilder.class
+com\acme\Entity\Wertpapier$WertpapierBuilder.class
+com\acme\Entity\Wertpapier.class
+com\acme\ProducerApplication.class
+com\acme\config\JMSConfig.class
+com\acme\Repository\MockDB.class
