@@ -1,0 +1,5 @@
+com\acme\Entity\Consumer.class
+com\acme\Components\Controller.class
+com\acme\ConsumerApplication.class
+com\acme\Entity\Consumer$ConsumerBuilder.class
+com\acme\Repository\MockDB.class
