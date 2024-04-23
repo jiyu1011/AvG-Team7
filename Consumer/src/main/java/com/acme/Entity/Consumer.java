@@ -15,5 +15,5 @@ import lombok.ToString;
 public class Consumer {
     private UUID uuid;
     private String Name;
-    private String SubscribedToTopic
+    private String SubscribedToTopic;
 }
